@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "826630170329",
+    "project_id": "cavalheros-df4e6",
+    "storage_bucket": "cavalheros-df4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826630170329:android:6802fdb21396210726c0c8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cheveaux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826630170329-fpcacgl25qhq0r2celbkv0i4uk88e027.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHL0QIECKh9MCxGXKx9xRiaZJT2hl1wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826630170329-fpcacgl25qhq0r2celbkv0i4uk88e027.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826630170329-lr5ss2qjvja14fl5moodlfa7ihtq6569.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.duytq.flutterchatdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
